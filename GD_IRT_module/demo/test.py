@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # 🔑 Dán API KEY LẤY TỪ MAKERSUITE (https://makersuite.google.com/app/apikey)
-API_KEY = "AIzaSyBBCKO9seePRUSoMX5ZiRf7pOZ9VB9LAc4"  # ⬅️ Dán key của bạn vào đây
+API_KEY = ""  # ⬅️ Dán key của bạn vào đây
 
 # ✅ Cấu hình Gemini
 genai.configure(api_key=API_KEY)
